@@ -8,7 +8,7 @@
 * README.md - this file itself to show the homepage of this repo
 
 ## Connect me via
-[Facebook](https://www.facebook.com/khoibeo2202)
-[Email](mailto:kukhoi.2202@gmail.com)
+1. [Facebook](https://www.facebook.com/khoibeo2202)
+2. [Email](mailto:kukhoi.2202@gmail.com)
 
 #### © 2020 by NguyenKhoi.fpt
